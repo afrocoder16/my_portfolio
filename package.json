@@ -2,11 +2,15 @@
   "name": "minfo-resume",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "vite",
-    "watch": "tailwindcss -i ./src/tailwind.css -o ./assets/css/style.min.css --watch"
-  },
+"scripts": {
+  "build": "tailwindcss -i ./src/tailwind.css -o ./assets/css/style.min.css",
+  "test": "echo \"Error: no test specified\" && exit 1",
+  "dev": "vite",
+  "watch": "tailwindcss -i ./src/tailwind.css -o ./assets/css/style.min.css --watch"
+}
+
+
+,
   "keywords": [],
   "author": "",
   "license": "ISC",
