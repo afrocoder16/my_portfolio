@@ -699,6 +699,24 @@ body {
   color: rgb(112 112 112 / var(--tw-text-opacity, 1));
 }
 
+:root {
+  --circle-fill: #4CAF50; /* Default fill color */
+  --circle-empty: #e0e0e0; /* Default empty color */
+  --percent: 50; /* Default percentage */
+  --circle-shadow: inset 0 0 5px rgba(0, 0, 0, 0.1); /* Shadow */
+}
+
+circle {
+  border-radius: 50%;
+  background: conic-gradient(
+    var(--circle-fill) calc(var(--percent) * 1%),
+    var(--circle-empty) 0
+  );
+  box-shadow: var(--circle-shadow);
+  transition: background 1s ease-in-out;
+}
+
+
 body:is(.dark *) {
   --tw-bg-opacity: 1;
   background-color: rgb(24 25 26 / var(--tw-bg-opacity, 1));
@@ -2216,6 +2234,10 @@ html.dark input:-webkit-autofill,
 
 .leading-normal {
   line-height: 1.5;
+}
+
+.leading-relaxed {
+  line-height: 1.625;
 }
 
 .tracking-normal {
