@@ -14,13 +14,13 @@
     <meta name="keyword"
         content="resume, cv, portfolio, vcard, responsive, retina, jquery, css3, tailwindcss, material CV, creative, designer, developer, online cv, online resume, powerful portfolio, professional, landing page">
     <meta name="description" 
-        content="Minfo vCard/Resume TailwindCSS HTML Template">
+        content="Samson Tadesse portfolio, projects, blog, and resume.">
     <meta name="author" 
-        content="Themearray">
+        content="Samson Tadesse">
 
     <!-- Site Title
     ================================================== -->
-    <title>Minfo- Tailwind CSS Personal Resume/vCard Template</title>
+    <title>Contact | Samson Tadesse</title>
 
     <!-- Site Favicon
     ================================================== -->
@@ -58,7 +58,7 @@
         <div class="loader_line"></div>
         <div
             class="absolute w-20 h-20 transition-all delay-300 -translate-x-1/2 -translate-y-1/2 rounded-full logo top-1/2 left-1/2 bg-nightBlack border-greyBlack flex-center">
-            <img src="assets/img/site-logo.svg" alt="Minfo">
+            <img src="assets/img/site-logo.svg" alt="Samson Tadesse">
         </div>
     </div>
     <!-- App Preloader End -->
@@ -76,8 +76,8 @@
                 class="fixed top-0 left-0 right-0 z-50 flex items-center justify-between p-2 px-3 bg-white/10 mobile-menu-bar sm:px-6 backdrop-blur-md xl:hidden">
                 <div class="text-lg font-medium name">
                     <a href="index.html" class="flex items-center gap-2 text-black dark:text-white">
-                        <img src="assets/img/site-logo.svg" alt="Minfo">
-                        <span>Minfo</span>
+                        <img src="assets/img/site-logo.svg" alt="Samson Tadesse">
+                        <span>Samson</span>
                     </a>
                 </div>
                 <!-- Mobile Hamburger Menu Start -->
@@ -163,7 +163,7 @@
                                 <i class="fal fa-tasks-alt"></i>
                             </span>
                             <span class="group-[&.active]:text-theme dark:group-[&.active]:text-white group-hover:text-theme transition-colors">
-                                Poftfolio
+                                Portfolio
                             </span>
                         </a>
                     </li>
@@ -204,16 +204,16 @@
                 </div>
                 <!-- Social Share Icon Start  -->
                 <div class="flex items-center space-x-4 social-icons *:flex">
-                    <a href="#" title="Share with Facebook">
+                    <a href="https://github.com/afrocoder16" target="_blank" rel="noopener noreferrer" title="Check out my GitHub">
                         <i class="fab fa-facebook-f"></i>
                     </a>
-                    <a href="#" title="Share with Linkedin">
+                    <a href="https://www.linkedin.com/in/samsontadesse/" target="_blank" rel="noopener noreferrer" title="Connect on LinkedIn">
                         <i class="fab fa-linkedin-in"></i>
                     </a>
-                    <a href="#" title="Share with X">
+                    <a href="https://x.com/afrocoder16" target="_blank" rel="noopener noreferrer" title="Follow me on X">
                         <i class="fab fa-twitter"></i>
                     </a>
-                    <a href="#" title="Share with X">
+                    <a href="https://x.com/afrocoder16" target="_blank" rel="noopener noreferrer" title="Follow me on X">
                         <i class="fab fa-instagram"></i>
                     </a>
                 </div>
@@ -232,17 +232,17 @@
                             <img 
                                 src="assets/img/user-sidebar-thumb.png" 
                                 class="hidden dark:block "
-                                alt="Brown Reddick"> <!--Image for Dark Version -->
+                                alt="Samson Tadesse"> <!--Image for Dark Version -->
                             <img 
                                 src="assets/img/user-sidebar-thumb-light.png" 
                                 class="dark:hidden"
-                                alt="Brown Reddick"> <!--Image for Light Version -->
+                                alt="Samson Tadesse"> <!--Image for Light Version -->
                         </a>
-                        <h6 class="mb-1 text-lg font-semibold text-black dark:text-white name">Brown Reddick</h6>
+                        <h6 class="mb-1 text-lg font-semibold text-black dark:text-white name">Samson Tadesse</h6>
                         <div class="leading-none cd-headline clip is-full-width">
                             <h6 class="text-sm cd-words-wrapper designation text-theme after:!bg-theme *:font-normal">
                                 <b class="is-visible">Web Developer</b>
-                                <b>Photographers</b>
+                                <b>AI Engineer</b>
                                 <b>Web Designer</b>
                             </h6>
                         </div>
@@ -293,7 +293,7 @@
                             </div>
                         </div>
                         <div class="mt-6">
-                            <a href="#" download
+                            <a href="assets/Samson Tadesse.pdf" download
                                 class="text-center text-sm border border-theme bg-theme flex items-center justify-center gap-2 text-white rounded-4xl py-3.5 transition duration-300 text-[15px] font-semibold hover:bg-themeHover hover:border-themeHover">
                                 DOWNLOAD CV
                                 <span class="animate-bounce">
@@ -330,7 +330,7 @@
                 <!-- Site Logo Start -->
                 <div class="flex border rounded-full logo w-15 h-15 border-platinum dark:border-metalBlack flex-center hover:bg-white dark:hover:bg-metalBlack">
                     <a href="index.html">
-                        <img src="assets/img/site-logo.svg" alt="Minfo">
+                        <img src="assets/img/site-logo.svg" alt="Samson Tadesse">
                     </a>
                 </div>
                 <!-- Site Logo Start -->
@@ -387,7 +387,7 @@
                         <li class="group">
                             <a href="index.html#portfolio"
                                 class="w-9 h-9 rounded-full flex-center group-[&.active]:bg-white dark:group-[&.active]:bg-metalBlack group-hover:bg-white dark:group-hover:bg-metalBlack transition-all duration-300 before:content-[attr(data-title)] before:absolute before:right-10 before:bg-white dark:before:bg-metalBlack before:text-sm text-theme dark:before:text-white before:px-4 before:py-2 before:rounded-md before:font-normal dark:before:font-light before:opacity-0 before:transition-all before:duration-200 group-hover:before:opacity-100 after:content-[''] after:absolute after:w-0 after:h-0 after:right-8 after:border-solid after:border-t-4 after:border-r-0 after:border-b-4 after:border-l-8 after:border-t-transparent after:border-r-transparent after:border-b-transparent after:border-l-white dark:after:border-l-metalBlack after:opacity-0 after:transition-all after:duration-200 group-hover:after:opacity-100"
-                                data-title="Poftfolio">
+                                data-title="Portfolio">
                                 <span class="text-black dark:text-white group-hover:text-theme group-[&.active]:text-theme">
                                     <i class="fal fa-tasks-alt"></i>
                                 </span>
@@ -435,16 +435,16 @@
                     <!-- Social Share Icon Start  -->
                     <div
                         class="absolute bottom-0 flex items-center invisible px-5 py-6 space-x-3 transition-all duration-300 -translate-y-1/2 opacity-0 social-icons top-1/2 bg-white dark:bg-nightBlack rounded-4xl right-6 group-hover:opacity-100 group-hover:visible group-hover:right-10 -z-1 *:flex *:transition *:duration-200">
-                        <a href="#" class="hover:text-theme" title="Share with Facebook">
+                        <a href="https://github.com/afrocoder16" target="_blank" rel="noopener noreferrer" class="hover:text-theme" title="Check out my GitHub">
                             <i class="fab fa-facebook"></i>
                         </a>
-                        <a href="#" class="hover:text-theme" title="Share with Linkedin">
+                        <a href="https://www.linkedin.com/in/samsontadesse/" target="_blank" rel="noopener noreferrer" class="hover:text-theme" title="Connect on LinkedIn">
                             <i class="fab fa-linkedin-in"></i>
                         </a>
-                        <a href="#" class="hover:text-theme" title="Share with X">
+                        <a href="https://x.com/afrocoder16" target="_blank" rel="noopener noreferrer" class="hover:text-theme" title="Follow me on X">
                             <i class="fab fa-twitter"></i>
                         </a>
-                        <a href="#" class="hover:text-theme" title="Share with X">
+                        <a href="https://x.com/afrocoder16" target="_blank" rel="noopener noreferrer" class="hover:text-theme" title="Follow me on X">
                             <i class="fab fa-instagram"></i>
                         </a>
                     </div>
@@ -472,70 +472,64 @@
                                 Contact <span class="font-semibold text-theme">Me</span>
                             </h2>
                             <p class="max-w-2xl mt-4 md:mt-6 subtitle">
-                                I design products that are more than pretty. I make them shippable and usable, ttempor
-                                non mollit dolor et do aute
+                                I design products that are more than pretty. I make them practical, reliable, and easy to maintain,
+                                with measurable outcomes for real users and teams.
                             </p>
                         </div>
 
                         <div>
                             <?php
-                                $webmaster_email = "youremail@gmail.com";
-                                $name = $_REQUEST['client__name'] ;
-                                $email_address = $_REQUEST['client_email'] ;
-                                $message = $_REQUEST['contact__message'] ;
-                                $msg =  "First Name: " . $name . "\r\n" . 
-                                        "Email: " . $email_address . "\r\n" . 
-                                        "Message: " . $message ;
+                                $webmaster_email = "samtadesse16@gmail.com";
+                                $is_post = $_SERVER['REQUEST_METHOD'] === 'POST';
+                                $name = trim((string) filter_input(INPUT_POST, 'client__name', FILTER_UNSAFE_RAW));
+                                $email_address = trim((string) filter_input(INPUT_POST, 'client_email', FILTER_SANITIZE_EMAIL));
+                                $message = trim((string) filter_input(INPUT_POST, 'contact__message', FILTER_UNSAFE_RAW));
 
-                                function isInjected($str) {
-                                    $injections = array('(\n+)',
-                                        '(\r+)',
-                                        '(\t+)',
-                                        '(%0A+)',
-                                        '(%0D+)',
-                                        '(%08+)',
-                                        '(%09+)'
-                                    );
-                                    $inject = join('|', $injections);
-                                    $inject = "/$inject/i";
-                                    if(preg_match($inject,$str)) {
-                                        return true;
+                                $status_title = '';
+                                $status_line_1 = '';
+                                $status_line_2 = '';
+
+                                if (!$is_post) {
+                                    $status_title = 'Contact endpoint is ready';
+                                    $status_line_1 = 'This page accepts POST requests from your contact form.';
+                                    $status_line_2 = 'Go back to the homepage to submit a message.';
+                                } elseif ($name === '' || $email_address === '' || $message === '') {
+                                    $status_title = 'Oops!';
+                                    $status_line_1 = 'Please complete all fields before submitting the form.';
+                                    $status_line_2 = 'Make sure the email address is valid.';
+                                } elseif (!filter_var($email_address, FILTER_VALIDATE_EMAIL)) {
+                                    $status_title = 'Oops!';
+                                    $status_line_1 = 'Please enter a valid email address.';
+                                    $status_line_2 = 'The form was not sent.';
+                                } else {
+                                    $safe_name = str_replace(["\r", "\n"], ' ', $name);
+                                    $safe_email = str_replace(["\r", "\n"], '', $email_address);
+                                    $safe_message = trim(preg_replace("/\r\n|\r|\n/", PHP_EOL, $message));
+                                    $msg = "Name: {$safe_name}\r\nEmail: {$safe_email}\r\nMessage:\r\n{$safe_message}";
+                                    $headers = implode("\r\n", [
+                                        "From: Portfolio Contact <no-reply@localhost>",
+                                        "Reply-To: {$safe_email}",
+                                        "Content-Type: text/plain; charset=UTF-8",
+                                    ]);
+
+                                    if (@mail($webmaster_email, 'Message from Samson Tadesse Portfolio', $msg, $headers)) {
+                                        $status_title = 'Thanks for contacting me';
+                                        $status_line_1 = 'Your message was sent successfully.';
+                                        $status_line_2 = "I'll get back to you soon.";
+                                    } else {
+                                        $status_title = 'Oops!';
+                                        $status_line_1 = 'The server could not send your message right now.';
+                                        $status_line_2 = 'Please try again in a few minutes.';
                                     }
-                                    else {
-                                        return false;
-                                    }
                                 }
-                                // If the form fields are empty, redirect to the error page.
-                                if (empty($name) || empty($email_address) || empty($message)) {
-                                    ?>
-                            <h1 class="my-4 font-bold text-black dark:text-white">Oops!</h1>
-                            <p>Please ensure you have completed all fields before submitting the form. </p>
-                            <p>Also ensure that there is only one valid email address.</p>
-                            <?php
-                                }
-                                elseif ( isInjected($email_address) || isInjected($name)  || isInjected($message)) {
-                                    ?>
-                            <h1 class="my-4 font-bold text-black dark:text-white">Oops!</h1>
-                            <p>Please ensure you have completed all fields before submitting the form. </p>
-                            <p>Also ensure that there is only one valid email address.</p>
-                            <?php
-                                }
-                                // If we passed all previous tests, send the email then redirect to the thank you page.
-                                else {
-                                    mail( "$webmaster_email", "Message from Resume Template", $msg );
-                                    ?>
-                            <h1 class="my-4 font-bold text-black dark:text-white">Thanks for Contacting Me</h1>
-                            <p>I appreciate that you took the time to send the message. Your Message has been sent to
-                                the Admin Panel.</p>
-                            <br>
-                            <p>Iam getting back to you soon.</p>
+                            ?>
+                            <h1 class="my-4 font-bold text-black dark:text-white"><?php echo htmlspecialchars($status_title, ENT_QUOTES, 'UTF-8'); ?></h1>
+                            <p><?php echo htmlspecialchars($status_line_1, ENT_QUOTES, 'UTF-8'); ?></p>
+                            <p><?php echo htmlspecialchars($status_line_2, ENT_QUOTES, 'UTF-8'); ?></p>
                             <br>
                             <a href="index.html"
                                 class="text-center text-sm border border-theme inline-flex items-center justify-center gap-2 text-black dark:text-white rounded-3xl py-3.5 px-8 transition duration-300 hover:bg-theme hover:text-white">Back
                                 to Home</a>
-                            <?php
-                                }
-                            ?>
                         </div>
 
                     </div>
@@ -551,7 +545,7 @@
                 <div class="footer-container text-center py-6 max-w-content xl:max-2xl:max-w-50rem max-xl:mx-auto xl:ml-auto">
                     <p>
                         Copyright by
-                        <a href="#" class="transition-colors">@domain.com</a>
+                        <a href="mailto:samtadesse16@gmail.com" class="transition-colors">samtadesse16@gmail.com</a>
                     </p>
                 </div>
             </footer>

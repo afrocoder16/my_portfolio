@@ -2,23 +2,28 @@
   "name": "minfo-resume",
   "version": "1.0.0",
   "main": "index.js",
-"scripts": {
-  "build": "node ./node_modules/tailwindcss/lib/cli.js -i ./src/tailwind.css -o ./assets/css/style.min.css",
-  "test": "echo \"Error: no test specified\" && exit 1",
-  "dev": "vite",
-  "watch": "node ./node_modules/tailwindcss/lib/cli.js -i ./src/tailwind.css -o ./assets/css/style.min.css --watch"
-},
+  "scripts": {
+    "build": "node ./node_modules/tailwindcss/lib/cli.js -i ./src/tailwind.css -o ./assets/css/style.min.css",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "watch": "node ./node_modules/tailwindcss/lib/cli.js -i ./src/tailwind.css -o ./assets/css/style.min.css --watch"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "autoprefixer": "^10.4.19",
-    "postcss": "^8.4.38",
-    "tailwindcss": "^3.4.4",
-    "vite": "^5.2.13"
+    "autoprefixer": "^10.4.24",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^3.4.19",
+    "vite": "^7.3.1"
   },
   "description": "",
   "dependencies": {
     "tw-elements": "^2.0.0"
+  },
+  "overrides": {
+    "glob": "13.0.6",
+    "minimatch": "10.2.2",
+    "brace-expansion": "2.0.2"
   }
 }
